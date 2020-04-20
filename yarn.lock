@@ -718,10 +718,10 @@
   resolved "https://registry.yarnpkg.com/@iarna/toml/-/toml-2.2.3.tgz#f060bf6eaafae4d56a7dac618980838b0696e2ab"
   integrity sha512-FmuxfCuolpLl0AnQ2NHSzoUKWEJDFl63qXjzdoWBVyFCXzMGm1spBzk7LeHNoVCiWCF7mRVms9e6jEV9+MoPbg==
 
-"@iconify/icons-fa-solid@^1.0.6":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@iconify/icons-fa-solid/-/icons-fa-solid-1.0.6.tgz#18d81621746aee46451afcbf4eebaaf750a17964"
-  integrity sha512-0Jie6wiK20svJ/HbeH8tty4fodul6iy7RGebVebl0A616jvZ5DBnj9la3y3h4WCEtXIM4vQlQwivSP20PWl4Yg==
+"@iconify/icons-fa-solid@^1.0.9":
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/@iconify/icons-fa-solid/-/icons-fa-solid-1.0.9.tgz#7b7b586ad4f955ad008082f384e832b80fe6fd33"
+  integrity sha512-nHywG5Q7j1DodhF1GomDypdRhso4Qh/4jjyPmzV7lORrOM4EecialXH7Y7okK6HatglyHKYwKyl1IXxrfJHmhw==
 
 "@iconify/icons-si-glyph@^1.0.3":
   version "1.0.3"

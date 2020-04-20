@@ -6,7 +6,7 @@
   "author": "Brandon Hoff <brandonjhoff@icloud.com>",
   "license": "MIT",
   "dependencies": {
-    "@iconify/icons-fa-solid": "^1.0.6",
+    "@iconify/icons-fa-solid": "^1.0.9",
     "@iconify/react": "^1.1.1",
     "@types/react": "^16.9.16",
     "framer-motion": "^1.7.0",
