@@ -1,0 +1,28 @@
+{
+  "name": "PizzaExercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BrandonJHoff/PizzaExercise",
+  "author": "Brandon Hoff <brandonjhoff@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@iconify/icons-fa-solid": "^1.0.6",
+    "@iconify/react": "^1.1.1",
+    "@types/react": "^16.9.16",
+    "framer-motion": "^1.7.0",
+    "parcel-bundler": "^1.12.4",
+    "postcss-preset-env": "^6.7.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-json-view": "^1.19.1",
+    "react-simple-resizer": "^2.1.0",
+    "tailwindcss": "^1.1.4"
+  },
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "@iconify/icons-si-glyph": "^1.0.3",
+    "typescript": "^3.7.3"
+  }
+}
