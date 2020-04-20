@@ -12,7 +12,7 @@
     "framer-motion": "^1.7.0",
     "parcel-bundler": "^1.12.4",
     "postcss-preset-env": "^6.7.0",
-    "react": "^16.12.0",
+    "react": "^16.13.1",
     "react-dom": "^16.12.0",
     "react-json-view": "^1.19.1",
     "react-simple-resizer": "^2.1.0",
