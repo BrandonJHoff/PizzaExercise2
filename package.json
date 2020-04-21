@@ -22,7 +22,7 @@
     "start": "parcel src/index.html"
   },
   "devDependencies": {
-    "@iconify/icons-si-glyph": "^1.0.3",
+    "@iconify/icons-si-glyph": "^1.0.5",
     "typescript": "^3.7.3"
   }
 }
