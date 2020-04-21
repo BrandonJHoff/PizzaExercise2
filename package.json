@@ -9,7 +9,7 @@
     "@iconify/icons-fa-solid": "^1.0.6",
     "@iconify/react": "^1.1.1",
     "@types/react": "^16.9.16",
-    "framer-motion": "^1.7.0",
+    "framer-motion": "^1.10.3",
     "parcel-bundler": "^1.12.4",
     "postcss-preset-env": "^6.7.0",
     "react": "^16.12.0",
