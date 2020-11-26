@@ -723,10 +723,10 @@
   resolved "https://registry.yarnpkg.com/@iconify/icons-fa-solid/-/icons-fa-solid-1.0.6.tgz#18d81621746aee46451afcbf4eebaaf750a17964"
   integrity sha512-0Jie6wiK20svJ/HbeH8tty4fodul6iy7RGebVebl0A616jvZ5DBnj9la3y3h4WCEtXIM4vQlQwivSP20PWl4Yg==
 
-"@iconify/icons-si-glyph@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@iconify/icons-si-glyph/-/icons-si-glyph-1.0.3.tgz#86be142b616db579bb4943da9529036744a3b02e"
-  integrity sha512-CiUgap+eHw25XT0E8Pa3am7ur+Oj1wwAusKnn1bb/KGLG2UKumTv4+AzXH8E6K0MBH1D3h6aySuEk0DsDFnz4g==
+"@iconify/icons-si-glyph@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@iconify/icons-si-glyph/-/icons-si-glyph-1.1.0.tgz#9ab625f7382379c973a713981de93b2abcc2973a"
+  integrity sha512-If6+VCFU0nrHScZ0WzcczdFZmz9gxgCuqJVxUPJumyqwAL+JHqNT33Fs+zoi+eshEWexJfud+oHr6afz/BEntQ==
 
 "@iconify/react@^1.1.1":
   version "1.1.1"
