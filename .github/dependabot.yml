@@ -1,0 +1,63 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "13:10"
+    timezone: America/Denver
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: framer-motion
+    versions:
+    - 3.10.0
+    - 3.10.2
+    - 3.10.3
+    - 3.10.4
+    - 3.10.5
+    - 3.2.1
+    - 3.3.0
+    - 3.5.2
+    - 3.6.1
+    - 3.6.7
+    - 3.7.0
+    - 3.9.0
+    - 3.9.1
+    - 4.0.0
+    - 4.0.2
+    - 4.0.3
+    - 4.1.0
+    - 4.1.10
+    - 4.1.2
+    - 4.1.3
+    - 4.1.6
+    - 4.1.8
+    - 4.1.9
+  - dependency-name: y18n
+    versions:
+    - 4.0.1
+  - dependency-name: "@types/react"
+    versions:
+    - 17.0.0
+    - 17.0.1
+    - 17.0.2
+    - 17.0.3
+  - dependency-name: typescript
+    versions:
+    - 4.1.3
+    - 4.1.4
+    - 4.1.5
+    - 4.2.2
+    - 4.2.3
+  - dependency-name: "@iconify/icons-fa-solid"
+    versions:
+    - 1.1.0
+  - dependency-name: lodash
+    versions:
+    - 4.17.20
+  - dependency-name: elliptic
+    versions:
+    - 6.5.3
+  - dependency-name: "@iconify/react"
+    versions:
+    - 1.1.3
